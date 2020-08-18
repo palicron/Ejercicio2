@@ -1,0 +1,13 @@
+#encabezado {
+  color: blue;
+
+  background-color: pink;
+  font-weight: bolder;
+}
+p {
+  text-align: center;
+}
+
+.for {
+  color: red;
+}
